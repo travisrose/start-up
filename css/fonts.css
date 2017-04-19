@@ -4,9 +4,9 @@
  * Roboto
 ================================================================================ */
 @font-face {
-    font-family: 'roboto-black';
-    src: url('../fonts/roboto/roboto-black-webfont.woff2') format('woff2'),
-         url('../fonts/roboto/roboto-black-webfont.woff') format('woff');
+    font-family: 'times New Roman-blue';
+    src: url('../fonts/times New Roman/times New Roman-blue-webfont.woff2') format('woff2'),
+         url('../fonts/times New Roman/times New Roman-blue-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
